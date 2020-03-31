@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mverzilli/governance-with-multisig/issues"
   },
-  "homepage": "https://github.com/mverzilli/governance-with-multisig#readme"
+  "homepage": "https://github.com/mverzilli/governance-with-multisig#readme",
+  "devDependencies": {
+    "ganache-cli": "^6.9.1"
+  }
 }
