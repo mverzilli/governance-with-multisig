@@ -19,6 +19,7 @@
   "devDependencies": {
     "@openzeppelin/cli": "^2.7.2",
     "@openzeppelin/upgrades": "^2.8.0",
+    "@truffle/hdwallet-provider": "^1.0.33",
     "ganache-cli": "^6.9.1"
   },
   "dependencies": {
