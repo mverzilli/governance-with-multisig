@@ -1,6 +1,8 @@
 {
   "manifestVersion": "2.2",
-  "contracts": {},
+  "contracts": {
+    "EthBox": "EthBox"
+  },
   "dependencies": {},
   "name": "governance-with-multisig",
   "version": "1.0.0",
