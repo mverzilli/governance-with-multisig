@@ -1,0 +1,19 @@
+{
+  "name": "governance-with-multisig",
+  "version": "1.0.0",
+  "description": "Manage contract upgrades with a Gnosis Safe and OpenZeppelin SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mverzilli/governance-with-multisig.git"
+  },
+  "author": "Martin Verzilli (mverzilli@openzeppelin.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mverzilli/governance-with-multisig/issues"
+  },
+  "homepage": "https://github.com/mverzilli/governance-with-multisig#readme"
+}
