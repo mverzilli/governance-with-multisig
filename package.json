@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mverzilli/governance-with-multisig#readme",
   "devDependencies": {
+    "@openzeppelin/cli": "^2.7.2",
     "ganache-cli": "^6.9.1"
   }
 }
